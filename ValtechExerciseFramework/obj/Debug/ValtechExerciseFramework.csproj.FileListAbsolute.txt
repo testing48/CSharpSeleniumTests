@@ -1,0 +1,258 @@
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\NConsoler.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Newtonsoft.Json.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\RazorEngine.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\RestSharp.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRun.exe
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRun.exe.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile.xsd
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile_2011_09.xsd
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\System.Web.Razor.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Common.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Default.srprofile
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.dll.config
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.pdb
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Bender.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Flexo.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\FluentAssertions.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Gherkin.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\log4net.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Ninject.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\nunit.framework.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SimpleConfig.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\System.ValueTuple.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Generator.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Utils.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\WebDriver.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Bender.pdb
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.pdb
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.pdb
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Flexo.pdb
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\FluentAssertions.pdb
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\FluentAssertions.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\log4net.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\Ninject.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\nunit.framework.pdb
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\nunit.framework.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\SimpleConfig.pdb
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\System.ValueTuple.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\WebDriver.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.csprojAssemblyReference.cache
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.csproj.CoreCompileInputs.cache
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.csproj.CopyComplete
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.dll
+C:\Users\AndrewOnwuyali\Documents\qa-exercise\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\NConsoler.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Newtonsoft.Json.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\RazorEngine.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\RestSharp.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRun.exe
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRun.exe.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile.xsd
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile_2011_09.xsd
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\System.Web.Razor.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Common.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Default.srprofile
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.dll.config
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Bender.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Flexo.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\FluentAssertions.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Gherkin.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\log4net.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Ninject.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\nunit.framework.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SimpleConfig.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\System.ValueTuple.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Generator.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Utils.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\WebDriver.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Bender.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Flexo.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\FluentAssertions.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\FluentAssertions.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\log4net.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\Ninject.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\nunit.framework.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\nunit.framework.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\SimpleConfig.pdb
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\System.ValueTuple.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\WebDriver.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.csproj.CopyComplete
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.dll
+C:\Users\Andre\Repos\C#\Working Code\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\NConsoler.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\Newtonsoft.Json.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\RazorEngine.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\RestSharp.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRun.exe
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRun.exe.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile.xsd
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\SpecRunTestProfile_2011_09.xsd
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\System.Web.Razor.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Common.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.dll.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr20.exe.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.anycpu.clr40.exe.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr20.exe.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecFlowPlusRunner\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Default.srprofile
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.dll.config
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Bender.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Common.Logging.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Flexo.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\FluentAssertions.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Gherkin.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\log4net.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Ninject.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\nunit.framework.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SimpleConfig.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\System.ValueTuple.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Generator.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecFlow.Utils.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\WebDriver.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Bender.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Common.Logging.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Common.Logging.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Common.Logging.Core.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Flexo.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\FluentAssertions.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\FluentAssertions.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\log4net.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\Ninject.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\nunit.framework.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\nunit.framework.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\SimpleConfig.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\System.ValueTuple.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\WebDriver.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.dll
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.pdb
+C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\obj\Debug\ValtechExerciseFramework.csprojResolveAssemblyReference.cache

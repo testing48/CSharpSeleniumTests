@@ -1,0 +1,109 @@
+﻿2019-03-16T21:27:58.9011412+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-03-16T21:27:58.9041273+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-03-16T21:27:59.0587166+00:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-03-16T21:27:59.0587166+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.dll
+2019-03-16T21:27:59.0587166+00:00;VSTestExecutionThread;Info;Profile: ValtechExerciseFramework
+2019-03-16T21:28:04.1328106+00:00;Thread#13;Info;starting test run
+2019-03-16T21:28:04.1368020+00:00;Thread#13;Info;Discovering target: Default
+2019-03-16T21:28:04.1368020+00:00;Thread#13;Info;Discovering tests from assembly: C:\Users\Andre\Repos\C#\Working Code - Copy\ValtechExerciseFramework\bin\Debug\ValtechExerciseFramework.dll
+Appdomain Disposed
+Test Suite Dump
+#0: ValtechExerciseFramework/ValtechExerciseFramework - 
+#1: Default - 
+#2: ValtechExerciseFramework - 
+#3: BBCHeaderLinks - 
+#4: Clicking on BBC links - TestAssembly:ValtechExerciseFramework/Feature:BBCHeaderLinks/Scenario:Clicking+on+BBC+links
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for ValtechExerciseFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:T:[ERR]log4net:ERROR Failed to find configuration section 'log4net' in the application's .config file. Check your .config file for the <log4net> and <configSections> elements. The configuration section should look like: <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,log4net" />
+Thread#0:B:Given I open the BBC Homepage
+Thread#0:T:done: StepDefinition1.GivenIOpenTheBBCHomepage() (1.7s)
+Thread#0:B:Then the homepage is displayed
+Thread#0:T:done: StepDefinition1.ThenTheHomepageIsDisplayed() (0.1s)
+Thread#0:B:When I click the sports link
+Thread#0:T:done: StepDefinition1.WhenIClickTheSportsLink() (1.0s)
+Thread#0:B:Then the sports page is displayed
+Thread#0:T:error: Expected _webDriverUtils.GetCurrentUrl() to be 
+Thread#0:T:"https://www.bbc.co.uk/sport/" with a length of 28 because BBC Homepage should be opened, but 
+Thread#0:T:"https://www.bbc.co.uk/sport" has a length of 27, differs near "t" (index 26).
+Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #4/0 is finished on thread #0 as Failed within 6.9340832 seconds
+Thread#0: Test #4/1 is started on thread #0
+Thread#0:T:[ERR]log4net:ERROR Failed to find configuration section 'log4net' in the application's .config file. Check your .config file for the <log4net> and <configSections> elements. The configuration section should look like: <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,log4net" />
+Thread#0:B:Given I open the BBC Homepage
+Thread#0:T:done: StepDefinition1.GivenIOpenTheBBCHomepage() (1.5s)
+Thread#0:B:Then the homepage is displayed
+Thread#0:T:done: StepDefinition1.ThenTheHomepageIsDisplayed() (0.0s)
+Thread#0:B:When I click the sports link
+Thread#0:T:done: StepDefinition1.WhenIClickTheSportsLink() (1.3s)
+Thread#0:B:Then the sports page is displayed
+Thread#0:T:error: Expected _webDriverUtils.GetCurrentUrl() to be 
+Thread#0:T:"https://www.bbc.co.uk/sport/" with a length of 28 because BBC Homepage should be opened, but 
+Thread#0:T:"https://www.bbc.co.uk/sport" has a length of 27, differs near "t" (index 26).
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #4/1 is finished on thread #0 as Failed within 6.5222036 seconds
+Thread#0: Test #4/2 is started on thread #0
+Thread#0:T:[ERR]log4net:ERROR Failed to find configuration section 'log4net' in the application's .config file. Check your .config file for the <log4net> and <configSections> elements. The configuration section should look like: <section name="log4net" type="log4net.Config.Log4NetConfigurationSectionHandler,log4net" />
+Thread#0:B:Given I open the BBC Homepage
+Thread#0:T:done: StepDefinition1.GivenIOpenTheBBCHomepage() (1.4s)
+Thread#0:B:Then the homepage is displayed
+Thread#0:T:done: StepDefinition1.ThenTheHomepageIsDisplayed() (0.0s)
+Thread#0:B:When I click the sports link
+Thread#0:T:done: StepDefinition1.WhenIClickTheSportsLink() (0.9s)
+Thread#0:B:Then the sports page is displayed
+Thread#0:T:error: Expected _webDriverUtils.GetCurrentUrl() to be 
+Thread#0:T:"https://www.bbc.co.uk/sport/" with a length of 28 because BBC Homepage should be opened, but 
+Thread#0:T:"https://www.bbc.co.uk/sport" has a length of 27, differs near "t" (index 26).
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/2 is finished on thread #0 as Failed within 6.0947873 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-03-16T21:28:24.1292767+00:00;Thread#13;Info;test run finished
+2019-03-16T21:28:24.1312643+00:00;Thread#13;Info;publishing test results
+2019-03-16T21:28:24.1752187+00:00;Thread#13;Info;test results published
+2019-03-16T21:28:24.1761442+00:00;Thread#13;Info;generating reports
+2019-03-16T21:28:24.1831581+00:00;Thread#13;Info;creating 1 report(s)
+2019-03-16T21:28:24.1831581+00:00;Thread#13;Info;generate Report ReportTemplate.cshtml
+2019-03-16T21:28:25.1567378+00:00;Thread#13;Info;reports generated
+Total: 1 (test executions: 3)
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
+2019-03-16T21:28:25.1597459+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-03-16T21:28:25.1597459+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Andre\Repos\C#\Working Code - Copy\TestResults\ValtechExerciseFramework_ValtechExerciseFramework_2019-03-16T212759.html'
+2019-03-16T21:28:25.1677199+00:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\Andre\Repos\C#\Working%20Code%20-%20Copy\TestResults\ValtechExerciseFramework_ValtechExerciseFramework_2019-03-16T212759.log
