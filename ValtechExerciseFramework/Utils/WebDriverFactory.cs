@@ -4,6 +4,8 @@ using OpenQA.Selenium.Chrome;
 using System;
 using System.Threading;
 using ValtechExerciseFramework.Helpers;
+using WebDriverManager;
+using WebDriverManager.DriverConfigs.Impl;
 
 namespace ValtechExerciseFramework.Utils
 {
@@ -37,6 +39,7 @@ namespace ValtechExerciseFramework.Utils
                             chromeOptions.AddUserProfilePreference("download.directory_upgrade", true);
                             chromeOptions.AddUserProfilePreference("download.prompt_for_download", false);
                             chromeOptions.AddArguments("--disable-notifications");
+                            new DriverManager().SetUpDriver(new ChromeConfig());
                             _driver.Value = new ChromeDriver(FoldersPathHelper.Drivers, chromeOptions);
                             _driver.Value.Manage().Window.Maximize();
                             break;
