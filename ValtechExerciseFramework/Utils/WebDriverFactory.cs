@@ -35,12 +35,12 @@ namespace ValtechExerciseFramework.Utils
                     case "chrome":
                         {
                             var chromeOptions = new ChromeOptions();
-                            chromeOptions.AddUserProfilePreference("download.default_directory", FoldersPathHelper.Downloads);
+                          //  chromeOptions.AddUserProfilePreference("download.default_directory", FoldersPathHelper.Downloads);
                             chromeOptions.AddUserProfilePreference("download.directory_upgrade", true);
                             chromeOptions.AddUserProfilePreference("download.prompt_for_download", false);
                             chromeOptions.AddArguments("--disable-notifications");
                             new DriverManager().SetUpDriver(new ChromeConfig());
-                            _driver.Value = new ChromeDriver(FoldersPathHelper.Drivers, chromeOptions);
+                            _driver.Value = new ChromeDriver(chromeOptions);
                             _driver.Value.Manage().Window.Maximize();
                             break;
                         }

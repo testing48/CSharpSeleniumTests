@@ -6,11 +6,11 @@ namespace ValtechExerciseFramework.Pages.HomePage
 {
     public class BBCHomePageHeader : AbstractFragment
     {
-        private static By NewsLink = By.CssSelector("#orb-nav-links > ul > li.orb-nav-news > a");
-        private static By SportsLink = By.CssSelector("#orb-nav-links > ul > li.orb-nav-sport > a");
-        private static By WeatherLink = By.CssSelector("#orb-nav-links > ul > li.orb-nav-weather > a");
+        private static By NewsLink = By.XPath("//ul//li//a");
+        private static By SportsLink = By.CssSelector("ul > li.orb-nav-sport > a");
+        private static By WeatherLink = By.CssSelector("ul > li.orb-nav-weather > a");
 
-        [FindsBy(How = How.CssSelector, Using = "#orb-header")]
+        [FindsBy(How = How.XPath, Using = "//div/nav/div[1]/div")]
         private IWebElement _BBCHompageHeaderRoot;
 
         protected override void InitializeFragment()
@@ -18,8 +18,11 @@ namespace ValtechExerciseFramework.Pages.HomePage
             SetRootElement(_BBCHompageHeaderRoot);
         }
 
-        internal Button GetNewsLink() => GetChildElement<Button>(NewsLink);
-        internal Button GetSportsLink() => GetChildElement<Button>(SportsLink);
-        internal Button GetWeatherLink() => GetChildElement<Button>(WeatherLink);
+        internal Button GetNewsLink() => GetChildElements<Button>(NewsLink).Find(x => x.Text.ToLower().Contains("news"));
+            
+            
+        //    GetChildElement<Button>(NewsLink);
+        internal Button GetSportsLink() => GetChildElements<Button>(NewsLink).Find(x => x.Text.ToLower().Contains("sport"));
+        internal Button GetWeatherLink() => GetChildElements<Button>(NewsLink).Find(x => x.Text.ToLower().Contains("weather"));
     }
 }

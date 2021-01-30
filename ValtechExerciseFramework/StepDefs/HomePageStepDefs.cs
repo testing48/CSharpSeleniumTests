@@ -43,7 +43,7 @@ namespace ClassLibrary1.StepDefs
             _homePage.WaitForComplete();
             _homePage.Check();
             _webDriverUtils.GetCurrentUrl().Should()
-                .Be("https://www.bbc.co.uk/sport/",
+                .Be("https://www.bbc.co.uk/sport",
                 "BBC Homepage should be opened");
         }
 
